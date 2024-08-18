@@ -1,0 +1,357 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+.main-nav{
+    padding: 5px 5px;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: gray; */
+}
+.parent1{
+    padding: 10px 20px;
+    /* background-color: skyblue; */
+    margin-left: 30px;
+}
+.parent2{
+    display: flex;
+    
+}
+.p2-box{
+    padding: 20px 20px;
+    /* background-color: skyblue; */
+    font-size: 20px;
+    
+}
+.p2-box a{
+    text-decoration: none;
+    color: black;
+}
+.back-img{
+    height: 350px;
+    width: 100%;
+    background-image: url(page-title.png);
+    background-size: cover;
+    background-position-x: -500px;
+
+}
+.about-head{
+    margin-top: 200px;
+    margin-left: 50px ;
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+}
+.content1{
+    font-size: 20px;
+    color: white;
+}
+.span{
+    color: rgb(187, 180, 180);
+}
+.main-body{
+    margin: 30px 70px;
+    /* background-color: gray; */
+    display: flex;
+}
+.col1{
+    height: 1450px;
+    width: 50%;
+    /* background-color: red; */
+}
+.col2{
+    height: 1450px;
+    width: 50%;
+    /* background-color: green; */
+}
+.vector{
+    margin: 10px 10px;
+}
+.services{
+    margin: 10px 20px;
+}
+.ring-ceremony{
+    margin: 10px 20px;
+}
+.ring-para{
+    margin: 10px 20px;
+}
+.ring-para p{
+    line-height: 1.6;
+    color: gray;
+    font-size: 18px;
+}
+.contact{
+    margin: 10px 20px;
+}
+.contact button{
+    padding: 20px 50px;
+}
+.ring-img{
+    height: 500px;
+    width: auto;
+}
+.ring-img img{
+    height: 100%;
+    width: 100%;
+}
+.vector1{
+   margin-top: 30px;
+   margin-left: 10px;
+}
+.services1{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.wedding{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.wedding-para{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.wedding-para p{
+    line-height: 1.4;
+    font-size: 17px;
+}
+.contact1{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.contact1 button{
+    padding: 20px 50px;
+}
+.pre-img1{
+    height: 495px;
+    width: auto;
+}
+.pre-img1 img{
+    height: 100%;
+    width: 100%;
+}
+.vector1{
+    margin-top: 30px;
+    margin-left: 10px;
+ }
+ .services1{
+     margin-top: 10px;
+     margin-left: 20px;
+ }
+ .prewed-para{
+    margin-top: 10px;
+    margin-left: 20px;
+ }
+ .prewed-para p{
+    line-height: 1.6;
+    font-size: 17px;
+    margin-right: 10px;
+ }
+ .pre-wedding{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+ }
+ .contact2{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 33px;
+}
+.contact2 button{
+    padding: 20px 50px;
+}
+.pre-img2{
+height: 456px;
+    width: auto;
+}
+.pre-img2 img{
+    height: 100%;
+    width: 100%;
+}
+.red-patta{
+    height: 200px;
+    width: auto;
+    background-color: red;
+    margin-top: 40px;
+    display: flex;
+}
+.patta1{
+    height: 200px;
+    width: 25%;
+    /* background-color: grey; */
+}
+.patta1 img{
+    margin-left: 160px;
+}
+.patta2{
+    height: 200px;
+    width: 50%;
+    /* background-color: yellow; */
+}
+.patta2-div{
+    margin: 80px 50px;
+    background-color: red;
+    box-shadow: 0px 0px 50px -20px black;
+}
+.patta2-div p{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    padding: 20px 30px;
+}
+.patta3{
+    height: 200px;
+    width: 25%;
+    /* background-color: grey; */
+}
+.patta3 img{
+    height: 100%;
+    width: 100%;
+}
+.last-para{
+    height: 300px;
+    width: auto;
+    /* background-color: gray; */
+    margin: 30px 30px;
+    display: flex;
+}
+.last-para1{
+    height: 250px;
+    width: 20%;
+    margin: 20px 20px;
+  /* background-color: red; */
+  padding: 10px 10px;
+    
+}
+.folow1{
+    text-align: center;
+    margin-top: 10px;
+}
+.folow2{
+    display: flex;
+    
+}
+.f1{
+    margin: 20px 25px;
+}
+.last-para2{
+    height: 250px;
+    width: 20%;
+    margin: 20px 20px;
+    /* background-color: red; */
+    padding: 10px 10px;
+}
+.last-para2 h2{
+    text-align: center;
+}
+.last-para2 h4{
+    text-align: center;
+    margin-top: 10px;
+}
+.last-para2 p{
+    text-align: center;
+    margin-top: 10px;
+}
+.email{
+    text-align: center;
+    margin-right: 30px;
+
+}
+.e-p{
+    margin-left: 38px;
+}
+.address{
+    margin-top: 15px;
+}
+.ad-click{
+    margin-left: 30px;
+}
+.last-para3{
+    height: 250px;
+    width: 20%;
+    margin: 20px 20px;
+    /* background-color: red; */
+    padding: 10px 10px;
+}
+.last-para3 h2{
+    text-align: center;
+}
+.latest-work1{
+    height: 100px;
+    width: auto;
+    /* background-color: blue; */
+    display: flex;
+}
+.mohit-img{
+    height: 100px;
+    width: 50%;
+}
+.mohit-img img{
+    height: 100%;
+    width: 100%;
+}
+.latest-work1 p{
+    margin-top: 40px;
+   padding-left: 4px;
+   margin-right: 4px;
+}
+.latest-work2{
+    height: 100px;
+    width: auto;
+    /* background-color: blue; */
+    display: flex;
+    margin-top: 10px;
+}
+.twinkal-img{
+    height: 100px;
+    width: 55%;
+}
+.twinkal-img img{
+    height: 100%;
+    width: 100%;
+}
+.latest-work2 p{
+    margin-top: 30px;
+    text-align: center;
+}
+.last-para4{
+    height: 250px;
+    width: 20%;
+    margin: 20px 20px;
+    /* background-color: red; */
+    padding: 10px 10px;
+}   
+ .map{
+    height: 220px;
+    width: auto;
+ }
+ .map iframe{
+    height: 100%;
+    width: 100%;
+ }
+ .footer{
+    height: 80px;
+    width: auto;
+    background-color: black;
+    display: flex  ;
+}
+.b1{
+    color: rgb(143, 138, 138);
+    margin-right: 20px;
+}
+.b2{
+    color: rgb(212, 198, 198);
+    margin-left: 40px;
+}
+.a2{
+    margin: 20px 20px;
+    display: flex;
+    text-align: center;
+    margin-left: 300px;
+    
+}
+.b2:hover{
+    color: white;
+}
